@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\bin\Debug\net6.0\UdpServer.exe
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\bin\Debug\net6.0\UdpServer.deps.json
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\bin\Debug\net6.0\UdpServer.runtimeconfig.json
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\bin\Debug\net6.0\UdpServer.dll
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\bin\Debug\net6.0\UdpServer.pdb
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.dll
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\obj\Debug\net6.0\refint\UdpServer.dll
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.pdb
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\TcpIp\UdpServer\UdpServer\obj\Debug\net6.0\ref\UdpServer.dll
